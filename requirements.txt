@@ -1,7 +1,5 @@
 streamlit
 pandas
-zipfile
-io
 sqlalchemy
-plotly.express
+plotly
 openpyxl
