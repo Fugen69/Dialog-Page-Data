@@ -1,0 +1,7 @@
+streamlit
+pandas
+zipfile
+io
+sqlalchemy
+plotly.express
+openpyxl
